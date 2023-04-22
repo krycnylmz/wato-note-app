@@ -1,3 +1,8 @@
+![Desctop1](./ss/1.png)
+![Desctop2](./ss/2.png)
+![Desctop3](./ss/3.png)
+![Mobile1](./ss/4.png)
+# Before to use this app u need to have server side api keys
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
